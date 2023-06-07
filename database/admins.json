@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "id": "a4fa6b91-f111-4dd1-844e-3d83c61418a5",
+      "username": "Admin1",
+      "password": "$2b$10$8Gymu2nDaoi4iEpjSyZ7zO1Kkz2j9mG6pGobOU54sikl0LFEVulii"
+    }
+  ],
+  {
+    "id": "409966a7-4982-4873-a9c0-4862f61b19b5",
+    "username": "Admin2",
+    "password": "$2b$10$D7/TWxWiMARNFK4JddGtTuuBd9gl5HSPJbseua.EYzGinI6RQSomW"
+  }
+]
